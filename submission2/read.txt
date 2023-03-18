@@ -1,0 +1,17 @@
+Link to unlisted YouTube video:
+https://www.youtube.com/watch?v=Qk3EefIbCmY
+
+Public link to the slide (Anyone on the internet can view without login):
+https://docs.google.com/presentation/d/1P7zRC4B2vanYDHMHDIYEt4_qmdjjo0QxTvWYXLDC26A/edit?usp=sharing
+
+Paper title:
+ CySecBERT: A Domain-Adapted Language Model for the Cybersecurity Domain.
+
+Link to the paper:
+https://arxiv.org/pdf/2212.02974.pdf
+
+Group Number:
+18
+
+Individual Submitter:
+20101562 Parom Guha Neogi
